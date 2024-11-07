@@ -1,6 +1,6 @@
 # 前端快速部署
 
-基于Python的flask框架与http.server的前端快速部署系统。
+基于Python的flask框架与http.server的前端快速部署系统。作者：zjxyyds0307
 
 上传格式：
 
